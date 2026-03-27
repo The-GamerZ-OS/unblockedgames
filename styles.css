@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 #random-text {
-  color: #00f2ff;
+  color: #000000;
 }
 #ntv_2103197 {
   position: fixed;
@@ -14,8 +14,8 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: #b1e8fc;
-  background: linear-gradient(60deg, #066b99 20%, #00082e 90%);
+  color: #0a4b00;
+  background: linear-gradient(60deg, #269906 20%, #4c6749 90%);
   font-family: Outfit;
   display: flex;
   flex-direction: column;
@@ -44,8 +44,8 @@ body {
   box-shadow: 0 2px 12px rgba(0, 100, 100, 0.25);
   outline: none;
   margin-bottom: 20px;
-  background: #022c3a;
-  color: #066b99;
+  background: #0f3a02;
+  color: #ffffff;
   transition: box-shadow 0.2s;
 }
 
@@ -59,7 +59,7 @@ body {
   margin: 10px 0;
   text-align: center;
   text-decoration: none;
-  color: #b1e8fc;
+  color: #000000;
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 8px;
   transition: background-color 0.2s;
