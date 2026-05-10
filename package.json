@@ -1,6 +1,0 @@
-{
-  "workspaces": ["search"],
-  "devDependencies": {
-    "servor": "^4.0.2"
-  }
-}
